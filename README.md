@@ -1,1 +1,1 @@
-simple ping pong game usig pygame,sys,random in python
+ Ping Pong game usig Python Libaries (pygame,sys,random).
